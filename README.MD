@@ -89,7 +89,3 @@ The aim is to uncover insights about ride performance, cancellations, customer b
 - Understood cancellation patterns (customer vs driver reasons)  
 - Highlighted **Prime Sedan** as a vehicle type with varying driver ratings  
 - Built an **interactive Power BI dashboard** for real-time insights  
-
----
-
-## 📂 Project Structure
